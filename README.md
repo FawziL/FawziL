@@ -10,10 +10,10 @@ Cuento con sólidos conocimientos en bases de datos relacionales y no relacional
 
 ## 💻 Habilidades Técnicas
 
--   **Lenguajes:** JavaScript, TypeScript, PHP, HTML, CSS
+-   **Lenguajes:** JavaScript, TypeScript, PHP
 -   **Backend:** Node.js, Nest.js, Express.js, Laravel
--   **Frontend:** React.js, Next.js, Angular, Astro
--   **Bases de Datos:** SQL (PostgreSQL, MySQL), MongoDB
+-   **Frontend:** React.js, Next.js, Angular, Astro, HTML, CSS, Tailwind
+-   **Bases de Datos:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 -   **Control de Versiones:** Git, GitHub
 
 ---
