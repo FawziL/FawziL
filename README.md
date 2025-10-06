@@ -52,7 +52,7 @@ Cuento con sólidos conocimientos en bases de datos relacionales y no relacional
 
 ## 📫 Contacto
 
--   **Teléfono:** +58-4149541095
+-   **Teléfono:** +58-4128388230
 -   **Correo:** fawzi.jlr@gmail.com
 -   **Ubicación:** Miranda, Venezuela
 -   **Portafolio:** [fawzi-lutfallah.onrender.com](https://fawzi-lutfallah.onrender.com)
